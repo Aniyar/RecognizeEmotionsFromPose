@@ -11,13 +11,15 @@ Assignment 1 Robt414 Human-Robot Interaction
 * Happy 
 * Fear 
 * Sad 
-* Neutral 
+* Neutral
 
-![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/a4d90cfe-a653-4aa4-94d4-0ec32e210095)
-![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/ef3ab522-2fd8-4c98-87be-deb674579c7e)
-![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/e43e38a4-9420-4ccf-9736-4c45144e4d65)
-![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/592f70d8-bf15-47e7-aa34-40e95b5a3803)
+![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/cc5a1501-a669-4749-960e-5c246434ae7c)
+![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/a9b1a489-c42c-4a74-83f7-0c3d273e55e0)
+![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/d6e1c548-e509-4773-b1c0-a22a924b4811)
+![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/ab84c011-7c22-44f2-87e6-dc88bb63ee03)
+
 
 ## Emotion Statistics:
-![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/11657391-ebd4-4674-8113-c2ab1ab91c65)
+![image](https://github.com/Aniyar/RecognizeEmotionsFromPose/assets/45550980/afee6214-889e-4ae8-a9b4-f5bd896c8720)
+
 
